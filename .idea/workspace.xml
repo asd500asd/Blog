@@ -2,100 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f221cdeb-4b51-4016-88ba-02b67c1c5b33" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/images/banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_loading@2x.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/fancybox_sprite@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/fancybox_buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/_config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/scaffolds/draft.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/scaffolds/page.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/scaffolds/post.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/source/_posts/hello-world.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/_config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/de.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/default.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/es.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/fr.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/ja.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/ko.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/nl.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/no.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/pt.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/ru.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/zh-CN.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/languages/zh-TW.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/after-footer.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/archive-post.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/archive.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/article.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/footer.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/gauges-analytics.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/google-analytics.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/head.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/header.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/mobile-nav.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/category.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/date.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/gallery.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/nav.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/tag.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/post/title.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_partial/sidebar.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/archive.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/category.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/recent_posts.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/tag.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/_widget/tagcloud.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/archive.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/category.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/layout.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/page.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/post.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/layout/tag.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/scripts/fancybox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_extend.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/archive.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/article.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/comment.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/footer.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/header.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/highlight.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/mobile.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/sidebar-aside.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/sidebar-bottom.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_partial/sidebar.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_util/grid.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_util/mixin.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/_variables.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/css/style.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/jquery.fancybox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/jquery.fancybox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/fancybox/jquery.fancybox.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/themes/landscape/source/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -116,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -125,6 +33,16 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -140,9 +58,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="951" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -203,28 +120,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="landscape" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -234,9 +129,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/blog" />
     </key>
   </component>
@@ -299,12 +196,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522813069062</updated>
-      <workItem from="1522813070285" duration="823000" />
+      <workItem from="1522813070285" duration="2185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="823000" />
+    <option name="totallyTimeSpent" value="2185000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -316,16 +213,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="951" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329849" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2897959" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -353,6 +250,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog/scaffolds/draft.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/scaffolds/page.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/scaffolds/post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -361,6 +291,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
