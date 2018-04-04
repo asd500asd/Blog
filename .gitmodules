@@ -1,0 +1,3 @@
+[submodule "blog/themes/maupassant"]
+	path = blog/themes/maupassant
+	url = git@github.com:asd500asd/maupassant-hexo.git
