@@ -8,7 +8,7 @@ subtitle: 1874的博客
 description: 杰的博客
 keywords:
 author: WANG.JIE
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -78,6 +78,8 @@ theme: maupassant
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: git@github.com:asd500asd/asd500asd.github.io.git
+  branch: master
 
 
