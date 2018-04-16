@@ -82,4 +82,10 @@ deploy:
   repository: git@github.com:asd500asd/asd500asd.github.io.git
   branch: master
 
-
+# menu
+menu:
+  home: /      //主页
+  categories: /categories //分类
+  archives: /archives   //归档
+  tags: /tags   //标签
+  about: /about   //关于
