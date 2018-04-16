@@ -5,10 +5,10 @@
 # Site
 title: Initial_W
 subtitle: 请回答1992
-description: 杰的博客
+description: 身骑白马走北平，改换素衣回南诏。
 keywords:
 author: WANG.JIE
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: maupassant
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
