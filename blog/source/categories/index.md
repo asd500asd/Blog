@@ -1,4 +1,6 @@
 ---
-title: categories
-date: 2018-04-16 15:56:08
+title: 分类
+date: 日期
+type: "categories"
+comments: false
 ---
