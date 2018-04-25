@@ -89,3 +89,19 @@ menu:
   archives: /archives   //归档
   tags: /tags   //标签
   about: /about   //关于
+
+
+
+# 豆瓣
+douban:
+  user: 173246646
+  book:
+    title: '我的书单'
+    quote: '等待慢慢丰富的书单'
+  movie:
+    title: '我的电影'
+    quote: '电影的列表估计会比书单增加的快吧...'
+  game:
+    title: 'This is my game title'
+    quote: 'This is my game quote'
+  timeout: 10000 #optional
